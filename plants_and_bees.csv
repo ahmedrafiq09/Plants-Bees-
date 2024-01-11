@@ -1,0 +1,1251 @@
+"sample_id","bees_num","date","season","site","native_or_non","sampling","plant_species","time","bee_species","sex","specialized_on","parasitic","nesting","status","nonnative_bee"
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Augochlorella aurata","f",null,0,"ground",null,0
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Agapostemon texanus","f",null,0,"ground",null,0
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Augochlorella aurata","f",null,0,"ground",null,0
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Andrena carlini","f",null,0,"ground",null,0
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Andrena perplexa","m",null,0,"ground",null,0
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Apis mellifera","f",null,0,"hive",null,1
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Apis mellifera","f",null,0,"hive",null,1
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Apis mellifera","f",null,0,"hive",null,1
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Apis mellifera","f",null,0,"hive",null,1
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Apis mellifera","f",null,0,"hive",null,1
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Apis mellifera","f",null,0,"hive",null,1
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Lasioglossum pectorale","f",null,0,"ground",null,0
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Lasioglossum pectorale","f",null,0,"ground",null,0
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Lasioglossum cressonii","f",null,0,"wood",null,0
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Osmia pumila","m",null,0,"wood",null,0
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Lasioglossum pectorale","f",null,0,"ground",null,0
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Andrena miserabilis","m",null,0,"ground",null,0
+17400,23,"04/18/2017","early.season","A","native","pan traps","None",935,"Augochlorella aurata","f",null,0,"ground",null,0
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Lasioglossum versatum","f",null,0,"ground",null,0
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Osmia pumila","m",null,0,"wood",null,0
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Osmia pumila","m",null,0,"wood",null,0
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Osmia atriventris","m",null,0,"wood",null,0
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Osmia atriventris","m",null,0,"wood",null,0
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Osmia pumila","m",null,0,"wood",null,0
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Nomada bidentate_group","m",null,1,"parasite [ground]",null,0
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Agapostemon texanus","f",null,0,"ground",null,0
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Agapostemon texanus","f",null,0,"ground",null,0
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Agapostemon texanus","f",null,0,"ground",null,0
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Agapostemon texanus","f",null,0,"ground",null,0
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Osmia bucephala","m",null,0,"wood",null,0
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Apis mellifera","f",null,0,"hive",null,1
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Osmia bucephala","m",null,0,"wood",null,0
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Apis mellifera","f",null,0,"hive",null,1
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Apis mellifera","f",null,0,"hive",null,1
+17401,20,"04/18/2017","early.season","A","non-native","pan traps","None",935,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Nomada bidentate_group","f",null,1,"parasite [ground]",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Lasioglossum versatum","f",null,0,"ground",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Lasioglossum callidum","f",null,0,"ground",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Ceratina calcarata","m",null,0,"wood",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Augochlorella aurata","f",null,0,"ground",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Agapostemon texanus","f",null,0,"ground",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Agapostemon splendens","f",null,0,"ground",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Agapostemon texanus","f",null,0,"ground",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Agapostemon texanus","f",null,0,"ground",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Apis mellifera","f",null,0,"hive",null,1
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Osmia bucephala","m",null,0,"wood",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Osmia bucephala","m",null,0,"wood",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17402,20,"04/18/2017","early.season","B","native","pan traps","None",950,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Lasioglossum callidum","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Augochlorella aurata","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Osmia pumila","m",null,0,"wood",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Augochlorella aurata","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Andrena miserabilis","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Apis mellifera","f",null,0,"hive",null,1
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Apis mellifera","f",null,0,"hive",null,1
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Augochlorella aurata","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Augochlorella aurata","f",null,0,"ground",null,0
+17403,35,"04/18/2017","early.season","B","non-native","pan traps","None",950,"Augochlorella aurata","f",null,0,"ground",null,0
+17406,1,"04/18/2017","early.season","C","non-native","hand netting","Trifolium incarnatum",1320,"Apis mellifera","f",null,0,"hive",null,1
+17406,2,"04/18/2017","early.season","C","non-native","hand netting","Viola cornuta",1320,"Lasioglossum cressonii","f",null,0,"wood",null,0
+17406,2,"04/18/2017","early.season","C","non-native","hand netting","Viola cornuta",1320,"Ceratina calcarata","f",null,0,"wood",null,0
+17407,12,"05/02/2017","early.season","A","native","pan traps","None",945,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17407,12,"05/02/2017","early.season","A","native","pan traps","None",945,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17407,12,"05/02/2017","early.season","A","native","pan traps","None",945,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17407,12,"05/02/2017","early.season","A","native","pan traps","None",945,"Augochlorella aurata","f",null,0,"ground",null,0
+17407,12,"05/02/2017","early.season","A","native","pan traps","None",945,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17407,12,"05/02/2017","early.season","A","native","pan traps","None",945,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17407,12,"05/02/2017","early.season","A","native","pan traps","None",945,"Ceratina","f",null,null,"wood",null,null
+17407,12,"05/02/2017","early.season","A","native","pan traps","None",945,"Agapostemon texanus","f",null,0,"ground",null,0
+17407,12,"05/02/2017","early.season","A","native","pan traps","None",945,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17407,12,"05/02/2017","early.season","A","native","pan traps","None",945,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17408,9,"05/02/2017","early.season","A","non-native","pan traps","None",945,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17408,9,"05/02/2017","early.season","A","non-native","pan traps","None",945,"Augochlorella aurata","f",null,0,"ground",null,0
+17408,9,"05/02/2017","early.season","A","non-native","pan traps","None",945,"Augochlorella aurata","f",null,0,"ground",null,0
+17408,9,"05/02/2017","early.season","A","non-native","pan traps","None",945,"Augochlorella aurata","f",null,0,"ground",null,0
+17408,9,"05/02/2017","early.season","A","non-native","pan traps","None",945,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17408,9,"05/02/2017","early.season","A","non-native","pan traps","None",945,"Megachile brevis","f",null,0,"wood",null,0
+17409,1,"05/02/2017","early.season","A","non-native","hand netting","Trifolium repens",1340,"Halictus parallelus","f",null,0,"ground",null,0
+17409,10,"05/02/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1340,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17409,10,"05/02/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1340,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17409,10,"05/02/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1340,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17409,10,"05/02/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1340,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17409,10,"05/02/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1340,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17409,10,"05/02/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1340,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17409,10,"05/02/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1340,"Ceratina strenua","f",null,0,"wood",null,0
+17409,10,"05/02/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1340,"Andrena (Trachandrena)","m",null,null,"ground",null,null
+17409,10,"05/02/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1340,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17409,10,"05/02/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1340,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Augochlorella aurata","f",null,0,"ground",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Augochlorella aurata","f",null,0,"ground",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Lasioglossum versatum","f",null,0,"ground",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Augochlorella aurata","f",null,0,"ground",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Nomada australis","m",null,1,"parasite [ground]",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Andrena nasonii","f",null,0,"ground",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Augochlorella aurata","f",null,0,"ground",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Augochlorella aurata","f",null,0,"ground",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Ceratina mikmaqi","m",null,0,"wood",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Agapostemon virescens","f",null,0,"ground",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Agapostemon virescens","f",null,0,"ground",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Agapostemon texanus","f",null,0,"ground",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Agapostemon texanus","f",null,0,"ground",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Agapostemon splendens","f",null,0,"ground",null,0
+17410,18,"05/02/2017","early.season","B","native","pan traps","None",930,"Agapostemon splendens","f",null,0,"ground",null,0
+17411,17,"05/02/2017","early.season","B","non-native","pan traps","None",930,"Augochlorella aurata","f",null,0,"ground",null,0
+17411,17,"05/02/2017","early.season","B","non-native","pan traps","None",930,"Augochlorella aurata","f",null,0,"ground",null,0
+17411,17,"05/02/2017","early.season","B","non-native","pan traps","None",930,"Augochlorella aurata","f",null,0,"ground",null,0
+17411,17,"05/02/2017","early.season","B","non-native","pan traps","None",930,"Osmia subfasciata","f",null,0,"wood/shell",null,0
+17411,17,"05/02/2017","early.season","B","non-native","pan traps","None",930,"Osmia atriventris","m",null,0,"wood",null,0
+17411,17,"05/02/2017","early.season","B","non-native","pan traps","None",930,"Andrena perplexa","m",null,0,"ground",null,0
+17411,17,"05/02/2017","early.season","B","non-native","pan traps","None",930,"Agapostemon texanus","f",null,0,"ground",null,0
+17411,17,"05/02/2017","early.season","B","non-native","pan traps","None",930,"Agapostemon splendens","f",null,0,"ground",null,0
+17411,17,"05/02/2017","early.season","B","non-native","pan traps","None",930,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17411,17,"05/02/2017","early.season","B","non-native","pan traps","None",930,"Lasioglossum cressonii","f",null,0,"wood",null,0
+17411,17,"05/02/2017","early.season","B","non-native","pan traps","None",930,"Lasioglossum coriaceum","f",null,0,"ground",null,0
+17411,17,"05/02/2017","early.season","B","non-native","pan traps","None",930,"Apis mellifera","f",null,0,"hive",null,1
+17411,17,"05/02/2017","early.season","B","non-native","pan traps","None",930,"Apis mellifera","f",null,0,"hive",null,1
+17412,3,"05/02/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1050,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17412,3,"05/02/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1050,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17412,3,"05/02/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1050,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Lasioglossum vierecki","f",null,0,"ground",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Lasioglossum vierecki","f",null,0,"ground",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Nomada pygmaea","m",null,1,"parasite [ground]",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Osmia pumila","f",null,0,"wood",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Osmia pumila","f",null,0,"wood",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Agapostemon texanus","f",null,0,"ground",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Agapostemon texanus","f",null,0,"ground",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Agapostemon texanus","f",null,0,"ground",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Agapostemon texanus","f",null,0,"ground",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Agapostemon texanus","f",null,0,"ground",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Agapostemon texanus","f",null,0,"ground",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Agapostemon texanus","f",null,0,"ground",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Nomada australis","m",null,1,"parasite [ground]",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Nomada australis","m",null,1,"parasite [ground]",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Nomada australis","m",null,1,"parasite [ground]",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Nomada australis","m",null,1,"parasite [ground]",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Nomada australis","m",null,1,"parasite [ground]",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Osmia taurus","f",null,0,"wood",null,1
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Andrena banksi","f",null,null,null,null,null
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Apis mellifera","f",null,0,"hive",null,1
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Apis mellifera","f",null,0,"hive",null,1
+17413,32,"05/02/2017","early.season","C","native","pan traps","None",915,"Apis mellifera","f",null,0,"hive",null,1
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Nomada articulata","m",null,1,"parasite [ground]",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Nomada articulata","m",null,1,"parasite [ground]",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Apis mellifera","f",null,0,"hive",null,1
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Apis mellifera","f",null,0,"hive",null,1
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Apis mellifera","f",null,0,"hive",null,1
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Augochlorella aurata","f",null,0,"ground",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Lasioglossum versatum","f",null,0,"ground",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Lasioglossum versatum","f",null,0,"ground",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Andrena (Trachandrena)","m",null,null,"ground",null,null
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Nomada australis","m",null,1,"parasite [ground]",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Nomada australis","m",null,1,"parasite [ground]",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Nomada australis","m",null,1,"parasite [ground]",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Nomada australis","m",null,1,"parasite [ground]",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Augochlorella aurata","f",null,0,"ground",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Osmia distincta","m","Penstemon",0,null,"uncommon",0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Augochlorella aurata","f",null,0,"ground",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Agapostemon texanus","f",null,0,"ground",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Agapostemon texanus","f",null,0,"ground",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Agapostemon texanus","f",null,0,"ground",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Agapostemon splendens","f",null,0,"ground",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Agapostemon texanus","f",null,0,"ground",null,0
+17414,28,"05/02/2017","early.season","C","non-native","pan traps","None",915,"Nomada australis","m",null,1,"parasite [ground]",null,0
+17415,3,"05/02/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1600,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17415,3,"05/02/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1600,"Nomada articulata","m",null,1,"parasite [ground]",null,0
+17415,3,"05/02/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1600,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17415,2,"05/02/2017","early.season","C","non-native","hand netting","Trifolium incarnatum",1600,"Osmia pumila","f",null,0,"wood",null,0
+17415,2,"05/02/2017","early.season","C","non-native","hand netting","Trifolium incarnatum",1600,"Osmia pumila","f",null,0,"wood",null,0
+17415,1,"05/02/2017","early.season","C","non-native","hand netting","Trifolium repens",1600,"Osmia atriventris","f",null,0,"wood",null,0
+17416,6,"05/16/2017","early.season","A","native","pan traps","None",955,"Augochlorella aurata","f",null,0,"ground",null,0
+17416,6,"05/16/2017","early.season","A","native","pan traps","None",955,"Augochlorella aurata","f",null,0,"ground",null,0
+17416,6,"05/16/2017","early.season","A","native","pan traps","None",955,"Augochlorella aurata","f",null,0,"ground",null,0
+17416,6,"05/16/2017","early.season","A","native","pan traps","None",955,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17416,6,"05/16/2017","early.season","A","native","pan traps","None",955,"Ceratina mikmaqi","f",null,0,"wood",null,0
+17416,6,"05/16/2017","early.season","A","native","pan traps","None",955,"Eucera hamata","f",null,0,"ground",null,0
+17417,9,"05/16/2017","early.season","A","non-native","pan traps","None",955,"Augochlorella aurata","f",null,0,"ground",null,0
+17417,9,"05/16/2017","early.season","A","non-native","pan traps","None",955,"Agapostemon virescens","f",null,0,"ground",null,0
+17417,9,"05/16/2017","early.season","A","non-native","pan traps","None",955,"Augochlorella aurata","f",null,0,"ground",null,0
+17417,9,"05/16/2017","early.season","A","non-native","pan traps","None",955,"Andrena nasonii","f",null,0,"ground",null,0
+17417,9,"05/16/2017","early.season","A","non-native","pan traps","None",955,"Hoplitis producta","f",null,0,"wood",null,0
+17417,9,"05/16/2017","early.season","A","non-native","pan traps","None",955,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17417,9,"05/16/2017","early.season","A","non-native","pan traps","None",955,"Hoplitis producta","f",null,0,"wood",null,0
+17417,9,"05/16/2017","early.season","A","non-native","pan traps","None",955,"Osmia subfasciata","m",null,0,"wood/shell",null,0
+17418,1,"05/16/2017","early.season","A","non-native","hand netting","Melilotus officinalis",1225,"Augochloropsis metallica_metallica","f",null,0,"ground",null,0
+17418,11,"05/16/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1225,"Agapostemon texanus","f",null,0,"ground",null,0
+17418,11,"05/16/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1225,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17418,11,"05/16/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1225,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17418,11,"05/16/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1225,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17418,11,"05/16/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1225,"Halictus confusus","f",null,0,"ground",null,0
+17418,11,"05/16/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1225,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17418,11,"05/16/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1225,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17418,11,"05/16/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1225,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17418,11,"05/16/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1225,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17418,11,"05/16/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1225,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17418,11,"05/16/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1225,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17419,17,"05/16/2017","early.season","B","native","pan traps","None",940,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17419,17,"05/16/2017","early.season","B","native","pan traps","None",940,"Augochlorella aurata","f",null,0,"ground",null,0
+17419,17,"05/16/2017","early.season","B","native","pan traps","None",940,"Lasioglossum versatum","f",null,0,"ground",null,0
+17419,17,"05/16/2017","early.season","B","native","pan traps","None",940,"Ceratina dupla","m",null,0,"wood",null,0
+17419,17,"05/16/2017","early.season","B","native","pan traps","None",940,"Augochlorella aurata","f",null,0,"ground",null,0
+17419,17,"05/16/2017","early.season","B","native","pan traps","None",940,"Augochlorella aurata","f",null,0,"ground",null,0
+17419,17,"05/16/2017","early.season","B","native","pan traps","None",940,"Augochlorella aurata","f",null,0,"ground",null,0
+17419,17,"05/16/2017","early.season","B","native","pan traps","None",940,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17419,17,"05/16/2017","early.season","B","native","pan traps","None",940,"Osmia pumila","f",null,0,"wood",null,0
+17419,17,"05/16/2017","early.season","B","native","pan traps","None",940,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17419,17,"05/16/2017","early.season","B","native","pan traps","None",940,"Agapostemon texanus","f",null,0,"ground",null,0
+17419,17,"05/16/2017","early.season","B","native","pan traps","None",940,"Osmia distincta","f","Penstemon",0,null,"uncommon",0
+17419,17,"05/16/2017","early.season","B","native","pan traps","None",940,"Agapostemon virescens","f",null,0,"ground",null,0
+17419,17,"05/16/2017","early.season","B","native","pan traps","None",940,"Apis mellifera","f",null,0,"hive",null,1
+17419,17,"05/16/2017","early.season","B","native","pan traps","None",940,"Apis mellifera","f",null,0,"hive",null,1
+17419,17,"05/16/2017","early.season","B","native","pan traps","None",940,"Apis mellifera","f",null,0,"hive",null,1
+17419,17,"05/16/2017","early.season","B","native","pan traps","None",940,"Andrena barbara","f",null,null,null,null,null
+17420,1,"05/16/2017","early.season","B","native","hand netting","Tradescantia virginiana",1020,"Lasioglossum callidum","f",null,0,"ground",null,0
+17421,5,"05/16/2017","early.season","B","non-native","pan traps","None",940,"Lasioglossum versatum","f",null,0,"ground",null,0
+17421,5,"05/16/2017","early.season","B","non-native","pan traps","None",940,"Augochlorella aurata","f",null,0,"ground",null,0
+17421,5,"05/16/2017","early.season","B","non-native","pan traps","None",940,"Augochlorella aurata","f",null,0,"ground",null,0
+17421,5,"05/16/2017","early.season","B","non-native","pan traps","None",940,"Megachile brevis","f",null,0,"wood",null,0
+17422,13,"05/16/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1120,"Augochlorella aurata","f",null,0,"ground",null,0
+17422,13,"05/16/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1120,"Ceratina dupla","f",null,0,"wood",null,0
+17422,13,"05/16/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1120,"Augochlorella aurata","f",null,0,"ground",null,0
+17422,13,"05/16/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1120,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17422,13,"05/16/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1120,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17422,13,"05/16/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1120,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17422,13,"05/16/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1120,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17422,13,"05/16/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1120,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17422,13,"05/16/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1120,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17422,13,"05/16/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1120,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17422,13,"05/16/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1120,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17422,13,"05/16/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1120,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17422,13,"05/16/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1120,"Osmia georgica","f",null,0,"wood/cavities",null,0
+17422,3,"05/16/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1120,"Augochlorella aurata","f",null,0,"ground",null,0
+17422,3,"05/16/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1120,"Augochlorella aurata","f",null,0,"ground",null,0
+17422,3,"05/16/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1120,"Augochlorella aurata","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Augochlorella aurata","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Nomada articulata","m",null,1,"parasite [ground]",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Nomada australis","m",null,1,"parasite [ground]",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Lasioglossum oblongum","f",null,0,"wood",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Lasioglossum floridanum","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Nomada parva","f",null,1,"parasite [ground]",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Augochlorella aurata","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Osmia subfasciata","f",null,0,"wood/shell",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Osmia sandhouseae","f",null,null,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Agapostemon texanus","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Agapostemon splendens","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Agapostemon texanus","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17423,25,"05/16/2017","early.season","C","native","pan traps","None",920,"Eucera hamata","f",null,0,"ground",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Nomada pygmaea","m",null,1,"parasite [ground]",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Ceratina strenua","f",null,0,"wood",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Augochlorella aurata","f",null,0,"ground",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Lasioglossum callidum","f",null,0,"ground",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Osmia pumila","f",null,0,"wood",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Augochloropsis metallica_metallica","f",null,0,"ground",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Agapostemon texanus","f",null,0,"ground",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Agapostemon texanus","f",null,0,"ground",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Lasioglossum bruneri","f",null,0,"ground",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Andrena barbara","f",null,null,null,null,null
+17424,23,"05/16/2017","early.season","C","non-native","pan traps","None",920,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17425,1,"05/16/2017","early.season","C","non-native","hand netting","Viola cornuta",1350,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Nomada parva","f",null,1,"parasite [ground]",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Nomada australis","m",null,1,"parasite [ground]",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Megachile mendica","m",null,0,"ground",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17425,18,"05/16/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1350,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17425,1,"05/16/2017","early.season","C","non-native","hand netting","Trifolium repens",1350,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17426,18,"05/26/2017","early.season","A","native","pan traps","None",1005,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17426,18,"05/26/2017","early.season","A","native","pan traps","None",1005,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17426,18,"05/26/2017","early.season","A","native","pan traps","None",1005,"Lasioglossum weemsi","f",null,null,null,null,null
+17426,18,"05/26/2017","early.season","A","native","pan traps","None",1005,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17426,18,"05/26/2017","early.season","A","native","pan traps","None",1005,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17426,18,"05/26/2017","early.season","A","native","pan traps","None",1005,"Megachile mendica","f",null,0,"ground",null,0
+17426,18,"05/26/2017","early.season","A","native","pan traps","None",1005,"Eucera hamata","f",null,0,"ground",null,0
+17426,18,"05/26/2017","early.season","A","native","pan traps","None",1005,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17426,18,"05/26/2017","early.season","A","native","pan traps","None",1005,"Hoplitis pilosifrons","m",null,0,"wood",null,0
+17426,18,"05/26/2017","early.season","A","native","pan traps","None",1005,"Lasioglossum cressonii","f",null,0,"wood",null,0
+17426,18,"05/26/2017","early.season","A","native","pan traps","None",1005,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17426,18,"05/26/2017","early.season","A","native","pan traps","None",1005,"Augochlorella aurata","f",null,0,"ground",null,0
+17426,18,"05/26/2017","early.season","A","native","pan traps","None",1005,"Agapostemon virescens","f",null,0,"ground",null,0
+17426,18,"05/26/2017","early.season","A","native","pan traps","None",1005,"Agapostemon texanus","f",null,0,"ground",null,0
+17427,5,"05/26/2017","early.season","A","native","hand netting","Penstemon digitalis",1625,"Agapostemon virescens","f",null,0,"ground",null,0
+17427,5,"05/26/2017","early.season","A","native","hand netting","Penstemon digitalis",1625,"Agapostemon virescens","f",null,0,"ground",null,0
+17427,5,"05/26/2017","early.season","A","native","hand netting","Penstemon digitalis",1625,"Bombus bimaculatus","f",null,0,"ground",null,0
+17427,5,"05/26/2017","early.season","A","native","hand netting","Penstemon digitalis",1625,"Bombus bimaculatus","f",null,0,"ground",null,0
+17427,5,"05/26/2017","early.season","A","native","hand netting","Penstemon digitalis",1625,"Bombus bimaculatus","m",null,0,"ground",null,0
+17428,20,"05/26/2017","early.season","A","non-native","pan traps","None",1005,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17428,20,"05/26/2017","early.season","A","non-native","pan traps","None",1005,"Lasioglossum","f",null,null,"ground",null,null
+17428,20,"05/26/2017","early.season","A","non-native","pan traps","None",1005,"Lasioglossum subviridatum","f",null,0,"wood",null,0
+17428,20,"05/26/2017","early.season","A","non-native","pan traps","None",1005,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17428,20,"05/26/2017","early.season","A","non-native","pan traps","None",1005,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17428,20,"05/26/2017","early.season","A","non-native","pan traps","None",1005,"Lasioglossum versatum","f",null,0,"ground",null,0
+17428,20,"05/26/2017","early.season","A","non-native","pan traps","None",1005,"Lasioglossum callidum","f",null,0,"ground",null,0
+17428,20,"05/26/2017","early.season","A","non-native","pan traps","None",1005,"Augochlorella aurata","f",null,0,"ground",null,0
+17428,20,"05/26/2017","early.season","A","non-native","pan traps","None",1005,"Augochlorella aurata","f",null,0,"ground",null,0
+17428,20,"05/26/2017","early.season","A","non-native","pan traps","None",1005,"Augochlorella aurata","f",null,0,"ground",null,0
+17428,20,"05/26/2017","early.season","A","non-native","pan traps","None",1005,"Augochlorella aurata","f",null,0,"ground",null,0
+17428,20,"05/26/2017","early.season","A","non-native","pan traps","None",1005,"Augochlorella aurata","f",null,0,"ground",null,0
+17428,20,"05/26/2017","early.season","A","non-native","pan traps","None",1005,"Augochlorella aurata","f",null,0,"ground",null,0
+17429,5,"05/26/2017","early.season","A","non-native","hand netting","Trifolium pratense",1530,"Bombus bimaculatus","f",null,0,"ground",null,0
+17429,5,"05/26/2017","early.season","A","non-native","hand netting","Trifolium pratense",1530,"Bombus bimaculatus","f",null,0,"ground",null,0
+17429,5,"05/26/2017","early.season","A","non-native","hand netting","Trifolium pratense",1530,"Bombus bimaculatus","f",null,0,"ground",null,0
+17429,5,"05/26/2017","early.season","A","non-native","hand netting","Trifolium pratense",1530,"Bombus bimaculatus","f",null,0,"ground",null,0
+17429,5,"05/26/2017","early.season","A","non-native","hand netting","Trifolium pratense",1530,"Bombus bimaculatus","m",null,0,"ground",null,0
+17429,5,"05/26/2017","early.season","A","non-native","hand netting","Melilotus officinalis",1530,"Augochloropsis metallica_metallica","f",null,0,"ground",null,0
+17429,5,"05/26/2017","early.season","A","non-native","hand netting","Melilotus officinalis",1530,"Bombus impatiens","f",null,0,"ground",null,0
+17429,5,"05/26/2017","early.season","A","non-native","hand netting","Melilotus officinalis",1530,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17429,5,"05/26/2017","early.season","A","non-native","hand netting","Melilotus officinalis",1530,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17429,5,"05/26/2017","early.season","A","non-native","hand netting","Melilotus officinalis",1530,"Bombus griseocollis","f",null,0,"ground",null,0
+17429,12,"05/26/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1530,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17429,12,"05/26/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1530,"Lasioglossum weemsi","f",null,null,null,null,null
+17429,12,"05/26/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1530,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17429,12,"05/26/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1530,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17429,12,"05/26/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1530,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17429,12,"05/26/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1530,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17429,12,"05/26/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1530,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17429,12,"05/26/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1530,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17429,12,"05/26/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1530,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17429,12,"05/26/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1530,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17429,12,"05/26/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1530,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17429,12,"05/26/2017","early.season","A","non-native","hand netting","Leucanthemum vulgare",1530,"Andrena perplexa","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Nomada pygmaea","f",null,1,"parasite [ground]",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Osmia atriventris","m",null,0,"wood",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Augochlorella aurata","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Augochlorella aurata","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Augochlorella aurata","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Agapostemon texanus","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Agapostemon sericeus","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Agapostemon texanus","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Agapostemon texanus","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Agapostemon texanus","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Agapostemon texanus","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Agapostemon texanus","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Agapostemon virescens","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Agapostemon virescens","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Agapostemon virescens","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Andrena (Trachandrena)","m",null,null,"ground",null,null
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Lasioglossum cressonii","f",null,0,"wood",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Andrena wilkella","f",null,null,null,null,null
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Megachile brevis","f",null,0,"wood",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Lasioglossum coriaceum","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Nomada australis","m",null,1,"parasite [ground]",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Andrena nasonii","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Andrena macra","f",null,0,"ground",null,0
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Apis mellifera","f",null,0,"hive",null,1
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Apis mellifera","f",null,0,"hive",null,1
+17430,42,"05/26/2017","early.season","B","native","pan traps","None",1035,"Apis mellifera","f",null,0,"hive",null,1
+17431,1,"05/26/2017","early.season","B","native","hand netting","Penstemon digitalis",1420,"Augochlorella aurata","f",null,0,"ground",null,0
+17431,2,"05/26/2017","early.season","B","native","hand netting","Tradescantia virginiana",1420,"Hoplitis truncata","m",null,0,"wood",null,0
+17431,2,"05/26/2017","early.season","B","native","hand netting","Tradescantia virginiana",1420,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Augochlorella aurata","f",null,0,"ground",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Ceratina calcarata","f",null,0,"wood",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Nomada pygmaea","m",null,1,"parasite [ground]",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Ceratina dupla","f",null,0,"wood",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Augochlorella aurata","f",null,0,"ground",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Augochlorella aurata","f",null,0,"ground",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Augochlorella aurata","f",null,0,"ground",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Augochlorella aurata","f",null,0,"ground",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Augochlorella aurata","f",null,0,"ground",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Augochlorella aurata","f",null,0,"ground",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Augochlorella aurata","f",null,0,"ground",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Augochlorella aurata","f",null,0,"ground",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Augochlorella aurata","f",null,0,"ground",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Augochlorella aurata","f",null,0,"ground",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Hoplitis pilosifrons","f",null,0,"wood",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Andrena wilkella","m",null,null,null,null,null
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Andrena wilkella","m",null,null,null,null,null
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Megachile brevis","m",null,0,"wood",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Andrena wilkella","f",null,null,null,null,null
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Megachile brevis","m",null,0,"wood",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Megachile mendica","m",null,0,"ground",null,0
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Apis mellifera","f",null,0,"hive",null,1
+17432,32,"05/26/2017","early.season","B","non-native","pan traps","None",1035,"Halictus parallelus","f",null,0,"ground",null,0
+17433,2,"05/26/2017","early.season","B","non-native","hand netting","Trifolium repens",1330,"Halictus parallelus","f",null,0,"ground",null,0
+17433,2,"05/26/2017","early.season","B","non-native","hand netting","Trifolium repens",1330,"Osmia atriventris","f",null,0,"wood",null,0
+17433,8,"05/26/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1330,"Augochloropsis metallica_fulgida","f",null,0,"ground",null,0
+17433,8,"05/26/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1330,"Andrena wilkella","m",null,null,null,null,null
+17433,8,"05/26/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1330,"Andrena wilkella","m",null,null,null,null,null
+17433,8,"05/26/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1330,"Andrena wilkella","m",null,null,null,null,null
+17433,8,"05/26/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1330,"Andrena atlantica","f",null,null,null,null,null
+17433,8,"05/26/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1330,"Andrena wilkella","m",null,null,null,null,null
+17433,8,"05/26/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1330,"Andrena wilkella","m",null,null,null,null,null
+17433,8,"05/26/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1330,"Andrena wilkella","f",null,null,null,null,null
+17433,4,"05/26/2017","early.season","B","non-native","hand netting","Trifolium pratense",1330,"Andrena wilkella","m",null,null,null,null,null
+17433,4,"05/26/2017","early.season","B","non-native","hand netting","Trifolium pratense",1330,"Andrena wilkella","m",null,null,null,null,null
+17433,4,"05/26/2017","early.season","B","non-native","hand netting","Trifolium pratense",1330,"Andrena wilkella","m",null,null,null,null,null
+17433,4,"05/26/2017","early.season","B","non-native","hand netting","Trifolium pratense",1330,"Bombus bimaculatus","f",null,0,"ground",null,0
+17433,15,"05/26/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1330,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17433,15,"05/26/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1330,"Andrena atlantica","f",null,null,null,null,null
+17433,15,"05/26/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1330,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17433,15,"05/26/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1330,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17433,15,"05/26/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1330,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17433,15,"05/26/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1330,"Augochloropsis metallica_fulgida","f",null,0,"ground",null,0
+17433,15,"05/26/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1330,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17433,15,"05/26/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1330,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17433,15,"05/26/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1330,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17433,15,"05/26/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1330,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17433,15,"05/26/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1330,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17433,15,"05/26/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1330,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17433,15,"05/26/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1330,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Nomada parva","f",null,1,"parasite [ground]",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Nomada australis","m",null,1,"parasite [ground]",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Nomada australis","m",null,1,"parasite [ground]",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Nomada australis","m",null,1,"parasite [ground]",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Lasioglossum bruneri","f",null,0,"ground",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Augochlorella aurata","f",null,0,"ground",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Augochlorella aurata","f",null,0,"ground",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Lasioglossum versatum","f",null,0,"ground",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Osmia atriventris","f",null,0,"wood",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Andrena nasonii","f",null,0,"ground",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Agapostemon texanus","f",null,0,"ground",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Apis mellifera","f",null,0,"hive",null,1
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Andrena perplexa","f",null,0,"ground",null,0
+17434,28,"05/26/2017","early.season","C","native","pan traps","None",1100,"Apis mellifera","f",null,0,"hive",null,1
+17435,1,"05/26/2017","early.season","C","native","hand netting","Penstemon digitalis",1220,"Hoplitis truncata","m",null,0,"wood",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Andrena nasonii","f",null,0,"ground",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Hoplitis truncata","m",null,0,"wood",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Lasioglossum floridanum","f",null,0,"ground",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Andrena nasonii","f",null,0,"ground",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Andrena nasonii","f",null,0,"ground",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Augochlorella aurata","f",null,0,"ground",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Agapostemon splendens","f",null,0,"ground",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Andrena nasonii","f",null,0,"ground",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Megachile mendica","m",null,0,"ground",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Megachile brevis","m",null,0,"wood",null,0
+17436,35,"05/26/2017","early.season","C","non-native","pan traps","None",1100,"Megachile mendica","f",null,0,"ground",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Nomada australis","f",null,1,"parasite [ground]",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Agapostemon splendens","f",null,0,"ground",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17437,18,"05/26/2017","early.season","C","non-native","hand netting","Leucanthemum vulgare",1135,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17437,1,"05/26/2017","early.season","C","non-native","hand netting","Trifolium pratense",1135,"Bombus griseocollis","f",null,0,"ground",null,0
+17438,18,"06/13/2017","early.season","A","native","pan traps","None",930,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17438,18,"06/13/2017","early.season","A","native","pan traps","None",930,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17438,18,"06/13/2017","early.season","A","native","pan traps","None",930,"Calliopsis andreniformis","f",null,0,"ground",null,0
+17438,18,"06/13/2017","early.season","A","native","pan traps","None",930,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17438,18,"06/13/2017","early.season","A","native","pan traps","None",930,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17438,18,"06/13/2017","early.season","A","native","pan traps","None",930,"Lasioglossum callidum","f",null,0,"ground",null,0
+17438,18,"06/13/2017","early.season","A","native","pan traps","None",930,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17438,18,"06/13/2017","early.season","A","native","pan traps","None",930,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17438,18,"06/13/2017","early.season","A","native","pan traps","None",930,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17438,18,"06/13/2017","early.season","A","native","pan traps","None",930,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17438,18,"06/13/2017","early.season","A","native","pan traps","None",930,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17438,18,"06/13/2017","early.season","A","native","pan traps","None",930,"Augochlorella aurata","f",null,0,"ground",null,0
+17438,18,"06/13/2017","early.season","A","native","pan traps","None",930,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17438,18,"06/13/2017","early.season","A","native","pan traps","None",930,"Lasioglossum versatum","f",null,0,"ground",null,0
+17438,18,"06/13/2017","early.season","A","native","pan traps","None",930,"Calliopsis andreniformis","f",null,0,"ground",null,0
+17439,4,"06/13/2017","early.season","A","native","hand netting","Monarda punctata",1015,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17439,4,"06/13/2017","early.season","A","native","hand netting","Monarda punctata",1015,"Bombus bimaculatus","m",null,0,"ground",null,0
+17439,4,"06/13/2017","early.season","A","native","hand netting","Monarda punctata",1015,"Bombus bimaculatus","m",null,0,"ground",null,0
+17439,4,"06/13/2017","early.season","A","native","hand netting","Monarda punctata",1015,"Bombus bimaculatus","m",null,0,"ground",null,0
+17439,2,"06/13/2017","early.season","A","native","hand netting","Asclepias tuberosa",1015,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17439,2,"06/13/2017","early.season","A","native","hand netting","Asclepias tuberosa",1015,"Augochloropsis metallica_metallica","f",null,0,"ground",null,0
+17439,4,"06/13/2017","early.season","A","native","hand netting","Penstemon digitalis",1015,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17439,4,"06/13/2017","early.season","A","native","hand netting","Penstemon digitalis",1015,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17439,4,"06/13/2017","early.season","A","native","hand netting","Penstemon digitalis",1015,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17439,4,"06/13/2017","early.season","A","native","hand netting","Penstemon digitalis",1015,"Lasioglossum callidum","f",null,0,"ground",null,0
+17439,6,"06/13/2017","early.season","A","native","hand netting","Rudbeckia hirta",1015,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17439,6,"06/13/2017","early.season","A","native","hand netting","Rudbeckia hirta",1015,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17439,6,"06/13/2017","early.season","A","native","hand netting","Rudbeckia hirta",1015,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17439,6,"06/13/2017","early.season","A","native","hand netting","Rudbeckia hirta",1015,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17439,6,"06/13/2017","early.season","A","native","hand netting","Rudbeckia hirta",1015,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17439,6,"06/13/2017","early.season","A","native","hand netting","Rudbeckia hirta",1015,"Melissodes subillatus","m",null,null,null,null,null
+17440,21,"06/13/2017","early.season","A","non-native","pan traps","None",930,"Calliopsis andreniformis","m",null,0,"ground",null,0
+17440,21,"06/13/2017","early.season","A","non-native","pan traps","None",930,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17440,21,"06/13/2017","early.season","A","non-native","pan traps","None",930,"Lasioglossum callidum","f",null,0,"ground",null,0
+17440,21,"06/13/2017","early.season","A","non-native","pan traps","None",930,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17440,21,"06/13/2017","early.season","A","non-native","pan traps","None",930,"Lasioglossum tegulare","m",null,0,"ground",null,0
+17440,21,"06/13/2017","early.season","A","non-native","pan traps","None",930,"Calliopsis andreniformis","f",null,0,"ground",null,0
+17440,21,"06/13/2017","early.season","A","non-native","pan traps","None",930,"Calliopsis andreniformis","f",null,0,"ground",null,0
+17440,21,"06/13/2017","early.season","A","non-native","pan traps","None",930,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17440,21,"06/13/2017","early.season","A","non-native","pan traps","None",930,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17440,21,"06/13/2017","early.season","A","non-native","pan traps","None",930,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17440,21,"06/13/2017","early.season","A","non-native","pan traps","None",930,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17440,21,"06/13/2017","early.season","A","non-native","pan traps","None",930,"Lasioglossum versatum","f",null,0,"ground",null,0
+17440,21,"06/13/2017","early.season","A","non-native","pan traps","None",930,"Calliopsis andreniformis","f",null,0,"ground",null,0
+17440,21,"06/13/2017","early.season","A","non-native","pan traps","None",930,"Calliopsis andreniformis","m",null,0,"ground",null,0
+17441,10,"06/13/2017","early.season","A","non-native","hand netting","Coronilla varia",1105,"Lasioglossum callidum","f",null,0,"ground",null,0
+17441,10,"06/13/2017","early.season","A","non-native","hand netting","Coronilla varia",1105,"Anthidiellum notatum","f",null,0,"wood",null,0
+17441,10,"06/13/2017","early.season","A","non-native","hand netting","Coronilla varia",1105,"Anthidiellum notatum","m",null,0,"wood",null,0
+17441,10,"06/13/2017","early.season","A","non-native","hand netting","Coronilla varia",1105,"Megachile exilis","f",null,null,null,null,null
+17441,10,"06/13/2017","early.season","A","non-native","hand netting","Coronilla varia",1105,"Megachile exilis","f",null,null,null,null,null
+17441,10,"06/13/2017","early.season","A","non-native","hand netting","Coronilla varia",1105,"Bombus bimaculatus","f",null,0,"ground",null,0
+17441,10,"06/13/2017","early.season","A","non-native","hand netting","Coronilla varia",1105,"Bombus griseocollis","f",null,0,"ground",null,0
+17441,10,"06/13/2017","early.season","A","non-native","hand netting","Coronilla varia",1105,"Bombus bimaculatus","f",null,0,"ground",null,0
+17441,10,"06/13/2017","early.season","A","non-native","hand netting","Coronilla varia",1105,"Bombus bimaculatus","f",null,0,"ground",null,0
+17441,10,"06/13/2017","early.season","A","non-native","hand netting","Coronilla varia",1105,"Bombus bimaculatus","f",null,0,"ground",null,0
+17441,1,"06/13/2017","early.season","A","non-native","hand netting","Trifolium repens",1105,"Bombus bimaculatus","f",null,0,"ground",null,0
+17441,1,"06/13/2017","early.season","A","non-native","hand netting","Melilotus officinalis",1105,"Heriades carinata","f",null,0,"wood",null,0
+17441,4,"06/13/2017","early.season","A","non-native","hand netting","Trifolium pratense",1105,"Bombus bimaculatus","f",null,0,"ground",null,0
+17441,4,"06/13/2017","early.season","A","non-native","hand netting","Trifolium pratense",1105,"Bombus bimaculatus","f",null,0,"ground",null,0
+17441,4,"06/13/2017","early.season","A","non-native","hand netting","Trifolium pratense",1105,"Bombus bimaculatus","f",null,0,"ground",null,0
+17441,4,"06/13/2017","early.season","A","non-native","hand netting","Trifolium pratense",1105,"Bombus bimaculatus","m",null,0,"ground",null,0
+17441,3,"06/13/2017","early.season","A","non-native","hand netting","Lobularia maritima",1105,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17441,3,"06/13/2017","early.season","A","non-native","hand netting","Lobularia maritima",1105,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17441,3,"06/13/2017","early.season","A","non-native","hand netting","Lobularia maritima",1105,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum versatum","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum versatum","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum versatum","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Calliopsis andreniformis","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum subviridatum","f",null,0,"wood",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Augochlorella aurata","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Calliopsis andreniformis","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Agapostemon virescens","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum ephialtum","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Calliopsis andreniformis","m",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum weemsi","f",null,null,null,null,null
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum","f",null,null,"ground",null,null
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum callidum","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Calliopsis andreniformis","m",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum subviridatum","f",null,0,"wood",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Augochlorella aurata","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Augochlorella aurata","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Augochlorella aurata","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Augochlorella aurata","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Augochlorella aurata","f",null,0,"ground",null,0
+17442,35,"06/13/2017","early.season","B","native","pan traps","None",915,"Agapostemon virescens","f",null,0,"ground",null,0
+17443,1,"06/13/2017","early.season","B","native","hand netting","Asclepias tuberosa",1520,"Augochlorella aurata","f",null,0,"ground",null,0
+17443,5,"06/13/2017","early.season","B","native","hand netting","Penstemon digitalis",1520,"Ceratina mikmaqi","f",null,0,"wood",null,0
+17443,5,"06/13/2017","early.season","B","native","hand netting","Penstemon digitalis",1520,"Osmia distincta","f","Penstemon",0,null,"uncommon",0
+17443,5,"06/13/2017","early.season","B","native","hand netting","Penstemon digitalis",1520,"Osmia distincta","f","Penstemon",0,null,"uncommon",0
+17443,5,"06/13/2017","early.season","B","native","hand netting","Penstemon digitalis",1520,"Osmia distincta","f","Penstemon",0,null,"uncommon",0
+17443,5,"06/13/2017","early.season","B","native","hand netting","Penstemon digitalis",1520,"Megachile georgica","m",null,null,null,null,null
+17443,3,"06/13/2017","early.season","B","native","hand netting","Rudbeckia hirta",1520,"Halictus poeyi/ligatus","m",null,0,"ground",null,0
+17443,3,"06/13/2017","early.season","B","native","hand netting","Rudbeckia hirta",1520,"Halictus poeyi/ligatus","m",null,0,"ground",null,0
+17443,3,"06/13/2017","early.season","B","native","hand netting","Rudbeckia hirta",1520,"Halictus poeyi/ligatus","m",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Calliopsis andreniformis","m",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Lasioglossum subviridatum","f",null,0,"wood",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Lasioglossum subviridatum","f",null,0,"wood",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Lasioglossum oblongum","f",null,0,"wood",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Calliopsis andreniformis","f",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Calliopsis andreniformis","m",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Calliopsis andreniformis","m",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Lasioglossum callidum","f",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Lasioglossum admirandum","f",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Lasioglossum ephialtum","f",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Calliopsis andreniformis","m",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Lasioglossum","f",null,null,"ground",null,null
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17444,27,"06/13/2017","early.season","B","non-native","pan traps","None",915,"Lasioglossum versatum","f",null,0,"ground",null,0
+17445,2,"06/13/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1605,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17445,2,"06/13/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1605,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17445,5,"06/13/2017","early.season","B","non-native","hand netting","Trifolium pratense",1605,"Andrena wilkella","f",null,null,null,null,null
+17445,5,"06/13/2017","early.season","B","non-native","hand netting","Trifolium pratense",1605,"Bombus bimaculatus","f",null,0,"ground",null,0
+17445,5,"06/13/2017","early.season","B","non-native","hand netting","Trifolium pratense",1605,"Bombus bimaculatus","f",null,0,"ground",null,0
+17445,5,"06/13/2017","early.season","B","non-native","hand netting","Trifolium pratense",1605,"Bombus bimaculatus","f",null,0,"ground",null,0
+17445,5,"06/13/2017","early.season","B","non-native","hand netting","Trifolium pratense",1605,"Bombus bimaculatus","f",null,0,"ground",null,0
+17445,8,"06/13/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1605,"Megachile exilis","f",null,null,null,null,null
+17445,8,"06/13/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1605,"Nomada articulata","f",null,1,"parasite [ground]",null,0
+17445,8,"06/13/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1605,"Andrena wilkella","m",null,null,null,null,null
+17445,8,"06/13/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1605,"Megachile exilis","f",null,null,null,null,null
+17445,8,"06/13/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1605,"Andrena wilkella","m",null,null,null,null,null
+17445,8,"06/13/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1605,"Andrena wilkella","m",null,null,null,null,null
+17445,8,"06/13/2017","early.season","B","non-native","hand netting","Melilotus officinalis",1605,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17445,2,"06/13/2017","early.season","B","non-native","hand netting","Lobularia maritima",1605,"Augochlorella aurata","f",null,0,"ground",null,0
+17445,2,"06/13/2017","early.season","B","non-native","hand netting","Lobularia maritima",1605,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum gotham","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum","f",null,null,"ground",null,null
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Augochlorella aurata","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum subviridatum","f",null,0,"wood",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum abanci","f",null,null,null,"uncommon",0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum subviridatum","f",null,0,"wood",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum ephialtum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum subviridatum","f",null,0,"wood",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum weemsi","f",null,null,null,null,null
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum subviridatum","f",null,0,"wood",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum subviridatum","f",null,0,"wood",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum vierecki","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum bruneri","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum versatum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum subviridatum","f",null,0,"wood",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum versatum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum ephialtum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum oblongum","f",null,0,"wood",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum vierecki","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum floridanum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum","f",null,null,"ground",null,null
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Augochlorella aurata","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Lasioglossum ephialtum","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Augochlorella aurata","f",null,0,"ground",null,0
+17446,60,"06/13/2017","early.season","C","native","pan traps","None",900,"Agapostemon virescens","f",null,0,"ground",null,0
+17447,13,"06/13/2017","early.season","C","native","hand netting","Asclepias tuberosa",1320,"Megachile exilis","f",null,null,null,null,null
+17447,13,"06/13/2017","early.season","C","native","hand netting","Asclepias tuberosa",1320,"Megachile exilis","f",null,null,null,null,null
+17447,13,"06/13/2017","early.season","C","native","hand netting","Asclepias tuberosa",1320,"Megachile exilis","f",null,null,null,null,null
+17447,13,"06/13/2017","early.season","C","native","hand netting","Asclepias tuberosa",1320,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17447,13,"06/13/2017","early.season","C","native","hand netting","Asclepias tuberosa",1320,"Agapostemon splendens","f",null,0,"ground",null,0
+17447,13,"06/13/2017","early.season","C","native","hand netting","Asclepias tuberosa",1320,"Megachile texana","f",null,0,"ground",null,0
+17447,13,"06/13/2017","early.season","C","native","hand netting","Asclepias tuberosa",1320,"Megachile mendica","m",null,0,"ground",null,0
+17447,13,"06/13/2017","early.season","C","native","hand netting","Asclepias tuberosa",1320,"Bombus bimaculatus","f",null,0,"ground",null,0
+17447,13,"06/13/2017","early.season","C","native","hand netting","Asclepias tuberosa",1320,"Bombus griseocollis","f",null,0,"ground",null,0
+17447,13,"06/13/2017","early.season","C","native","hand netting","Asclepias tuberosa",1320,"Bombus bimaculatus","m",null,0,"ground",null,0
+17447,13,"06/13/2017","early.season","C","native","hand netting","Asclepias tuberosa",1320,"Bombus griseocollis","f",null,0,"ground",null,0
+17447,13,"06/13/2017","early.season","C","native","hand netting","Asclepias tuberosa",1320,"Bombus griseocollis","f",null,0,"ground",null,0
+17447,13,"06/13/2017","early.season","C","native","hand netting","Asclepias tuberosa",1320,"Nomada parva","f",null,1,"parasite [ground]",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Lasioglossum subviridatum","f",null,0,"wood",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Bombus bimaculatus","m",null,0,"ground",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Bombus bimaculatus","f",null,0,"ground",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Bombus bimaculatus","m",null,0,"ground",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Bombus bimaculatus","m",null,0,"ground",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Bombus bimaculatus","m",null,0,"ground",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Bombus bimaculatus","m",null,0,"ground",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Triepeolus lunatus","m",null,1,"parasite [ground]",null,0
+17448,26,"07/03/2017","early.season","A","native","pan traps","None",1035,"Triepeolus lunatus","m",null,1,"parasite [ground]",null,0
+17449,28,"06/13/2017","early.season","C","non-native","pan traps","None",900,"Augochlorella aurata","f",null,0,"ground",null,0
+17449,28,"06/13/2017","early.season","C","non-native","pan traps","None",900,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17449,28,"06/13/2017","early.season","C","non-native","pan traps","None",900,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17449,28,"06/13/2017","early.season","C","non-native","pan traps","None",900,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17449,28,"06/13/2017","early.season","C","non-native","pan traps","None",900,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17449,28,"06/13/2017","early.season","C","non-native","pan traps","None",900,"Augochlorella aurata","f",null,0,"ground",null,0
+17449,28,"06/13/2017","early.season","C","non-native","pan traps","None",900,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17449,28,"06/13/2017","early.season","C","non-native","pan traps","None",900,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17449,28,"06/13/2017","early.season","C","non-native","pan traps","None",900,"Melissodes","m",null,null,null,null,null
+17449,28,"06/13/2017","early.season","C","non-native","pan traps","None",900,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17449,28,"06/13/2017","early.season","C","non-native","pan traps","None",900,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17449,28,"06/13/2017","early.season","C","non-native","pan traps","None",900,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17449,28,"06/13/2017","early.season","C","non-native","pan traps","None",900,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17449,28,"06/13/2017","early.season","C","non-native","pan traps","None",900,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17449,28,"06/13/2017","early.season","C","non-native","pan traps","None",900,"Melissodes comptoides","m",null,0,"ground",null,0
+17449,28,"06/13/2017","early.season","C","non-native","pan traps","None",900,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17450,6,"07/03/2017","early.season","A","native","hand netting","Monarda punctata",1730,"Melissodes subillatus","f",null,null,null,null,null
+17450,6,"07/03/2017","early.season","A","native","hand netting","Monarda punctata",1730,"Lasioglossum callidum","f",null,0,"ground",null,0
+17450,6,"07/03/2017","early.season","A","native","hand netting","Monarda punctata",1730,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17450,6,"07/03/2017","early.season","A","native","hand netting","Monarda punctata",1730,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17450,6,"07/03/2017","early.season","A","native","hand netting","Monarda punctata",1730,"Melissodes trinodis","m",null,0,"ground",null,0
+17450,6,"07/03/2017","early.season","A","native","hand netting","Monarda punctata",1730,"Melissodes trinodis","m",null,0,"ground",null,0
+17450,9,"07/03/2017","early.season","A","native","hand netting","Rudbeckia hirta",1730,"Melissodes subillatus","m",null,null,null,null,null
+17450,9,"07/03/2017","early.season","A","native","hand netting","Rudbeckia hirta",1730,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17450,9,"07/03/2017","early.season","A","native","hand netting","Rudbeckia hirta",1730,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17450,9,"07/03/2017","early.season","A","native","hand netting","Rudbeckia hirta",1730,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17450,9,"07/03/2017","early.season","A","native","hand netting","Rudbeckia hirta",1730,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17450,9,"07/03/2017","early.season","A","native","hand netting","Rudbeckia hirta",1730,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17450,9,"07/03/2017","early.season","A","native","hand netting","Rudbeckia hirta",1730,"Calliopsis andreniformis","f",null,0,"ground",null,0
+17450,9,"07/03/2017","early.season","A","native","hand netting","Rudbeckia hirta",1730,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17451,15,"07/03/2017","early.season","A","non-native","pan traps","None",1035,"Augochlorella aurata","f",null,0,"ground",null,0
+17451,15,"07/03/2017","early.season","A","non-native","pan traps","None",1035,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17451,15,"07/03/2017","early.season","A","non-native","pan traps","None",1035,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17451,15,"07/03/2017","early.season","A","non-native","pan traps","None",1035,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17451,15,"07/03/2017","early.season","A","non-native","pan traps","None",1035,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17451,15,"07/03/2017","early.season","A","non-native","pan traps","None",1035,"Melissodes bimaculatus","f",null,0,"ground",null,0
+17451,15,"07/03/2017","early.season","A","non-native","pan traps","None",1035,"Bombus bimaculatus","m",null,0,"ground",null,0
+17451,15,"07/03/2017","early.season","A","non-native","pan traps","None",1035,"Bombus impatiens","f",null,0,"ground",null,0
+17451,15,"07/03/2017","early.season","A","non-native","pan traps","None",1035,"Bombus impatiens","f",null,0,"ground",null,0
+17451,15,"07/03/2017","early.season","A","non-native","pan traps","None",1035,"Bombus impatiens","f",null,0,"ground",null,0
+17451,15,"07/03/2017","early.season","A","non-native","pan traps","None",1035,"Bombus impatiens","f",null,0,"ground",null,0
+17451,15,"07/03/2017","early.season","A","non-native","pan traps","None",1035,"Bombus fervidus/pensylvanicus","m",null,0,"ground","vulnerable (IUCN)",0
+17451,15,"07/03/2017","early.season","A","non-native","pan traps","None",1035,"Bombus fervidus/pensylvanicus","m",null,0,"ground","vulnerable (IUCN)",0
+17451,15,"07/03/2017","early.season","A","non-native","pan traps","None",1035,"Bombus fervidus/pensylvanicus","m",null,0,"ground","vulnerable (IUCN)",0
+17451,15,"07/03/2017","early.season","A","non-native","pan traps","None",1035,"Bombus impatiens","f",null,0,"ground",null,0
+17452,4,"07/03/2017","early.season","A","non-native","hand netting","Melilotus officinalis",1645,"Bombus impatiens","f",null,0,"ground",null,0
+17452,4,"07/03/2017","early.season","A","non-native","hand netting","Melilotus officinalis",1645,"Halictus parallelus","f",null,0,"ground",null,0
+17452,3,"07/03/2017","early.season","A","non-native","hand netting","Trifolium pratense",1645,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17452,2,"07/03/2017","early.season","A","non-native","hand netting","Coronilla varia",1645,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17452,2,"07/03/2017","early.season","A","non-native","hand netting","Daucus carota",1645,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17452,2,"07/03/2017","early.season","A","non-native","hand netting","Daucus carota",1645,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17453,20,"07/18/2017","late.season","B","native","pan traps","None",935,"Megachile brevis","f",null,0,"wood",null,0
+17453,20,"07/18/2017","late.season","B","native","pan traps","None",935,"Megachile brevis","f",null,0,"wood",null,0
+17453,20,"07/18/2017","late.season","B","native","pan traps","None",935,"Megachile brevis","f",null,0,"wood",null,0
+17453,20,"07/18/2017","late.season","B","native","pan traps","None",935,"Bombus impatiens","f",null,0,"ground",null,0
+17453,20,"07/18/2017","late.season","B","native","pan traps","None",935,"Bombus impatiens","f",null,0,"ground",null,0
+17453,20,"07/18/2017","late.season","B","native","pan traps","None",935,"Bombus impatiens","f",null,0,"ground",null,0
+17453,20,"07/18/2017","late.season","B","native","pan traps","None",935,"Bombus impatiens","f",null,0,"ground",null,0
+17453,20,"07/18/2017","late.season","B","native","pan traps","None",935,"Bombus impatiens","f",null,0,"ground",null,0
+17453,20,"07/18/2017","late.season","B","native","pan traps","None",935,"Bombus impatiens","f",null,0,"ground",null,0
+17453,20,"07/18/2017","late.season","B","native","pan traps","None",935,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17453,20,"07/18/2017","late.season","B","native","pan traps","None",935,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17453,20,"07/18/2017","late.season","B","native","pan traps","None",935,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17453,20,"07/18/2017","late.season","B","native","pan traps","None",935,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17453,20,"07/18/2017","late.season","B","native","pan traps","None",935,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Nomada texana","f",null,1,"parasite [ground]",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","m",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus confusus","f",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Melissodes subillatus","f",null,null,null,null,null
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","m",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Melissodes subillatus","f",null,null,null,null,null
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Melissodes subillatus","f",null,null,null,null,null
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Augochlora pura","f",null,0,"wood",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","m",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17454,25,"07/03/2017","early.season","B","native","hand netting","Rudbeckia hirta",1240,"Melissodes subillatus","f",null,null,null,null,null
+17454,1,"07/03/2017","early.season","B","native","hand netting","Chamaecrista fasciculata",1240,"Augochlorella aurata","f",null,0,"ground",null,0
+17454,3,"07/03/2017","early.season","B","native","hand netting","Pycnanthemum tenuifolium",1240,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17454,3,"07/03/2017","early.season","B","native","hand netting","Pycnanthemum tenuifolium",1240,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Lasioglossum versatum","f",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Lasioglossum","m",null,null,"ground",null,null
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Lasioglossum","m",null,null,"ground",null,null
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Lasioglossum","m",null,null,"ground",null,null
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Lasioglossum callidum","f",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Augochlorella aurata","f",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Augochlorella aurata","f",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Augochlorella aurata","f",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Agapostemon texanus","m",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17455,26,"07/03/2017","early.season","B","non-native","pan traps","None",1050,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17456,2,"07/03/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1155,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17456,2,"07/03/2017","early.season","B","non-native","hand netting","Leucanthemum vulgare",1155,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17456,2,"07/03/2017","early.season","B","non-native","hand netting","Agastache foeniculum",1155,"Bombus citrinus","m",null,1,"parasite [ground]",null,0
+17456,2,"07/03/2017","early.season","B","non-native","hand netting","Agastache foeniculum",1155,"Bombus bimaculatus","m",null,0,"ground",null,0
+17456,6,"07/03/2017","early.season","B","non-native","hand netting","Daucus carota",1155,"Hylaeus affinis/modestus","f",null,0,"wood",null,0
+17456,6,"07/03/2017","early.season","B","non-native","hand netting","Daucus carota",1155,"Hylaeus affinis/modestus","f",null,0,"wood",null,0
+17456,6,"07/03/2017","early.season","B","non-native","hand netting","Daucus carota",1155,"Hylaeus affinis/modestus","f",null,0,"wood",null,0
+17456,6,"07/03/2017","early.season","B","non-native","hand netting","Daucus carota",1155,"Ceratina calcarata","f",null,0,"wood",null,0
+17457,43,"07/03/2017","early.season","C","native","pan traps","None",1105,"Augochlorella aurata","f",null,0,"ground",null,0
+17457,43,"07/03/2017","early.season","C","native","pan traps","None",1105,"Lasioglossum floridanum","f",null,0,"ground",null,0
+17457,43,"07/03/2017","early.season","C","native","pan traps","None",1105,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17457,43,"07/03/2017","early.season","C","native","pan traps","None",1105,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17457,43,"07/03/2017","early.season","C","native","pan traps","None",1105,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17457,43,"07/03/2017","early.season","C","native","pan traps","None",1105,"Ceratina calcarata","f",null,0,"wood",null,0
+17457,43,"07/03/2017","early.season","C","native","pan traps","None",1105,"Lasioglossum subviridatum","f",null,0,"wood",null,0
+17457,43,"07/03/2017","early.season","C","native","pan traps","None",1105,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17458,1,"07/03/2017","early.season","C","native","hand netting","Pycnanthemum tenuifolium",1520,"Ceratina calcarata","f",null,0,"wood",null,0
+17458,14,"07/03/2017","early.season","C","native","hand netting","Rudbeckia hirta",1520,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17458,14,"07/03/2017","early.season","C","native","hand netting","Rudbeckia hirta",1520,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17458,14,"07/03/2017","early.season","C","native","hand netting","Rudbeckia hirta",1520,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17458,14,"07/03/2017","early.season","C","native","hand netting","Rudbeckia hirta",1520,"Halictus poeyi/ligatus","m",null,0,"ground",null,0
+17458,14,"07/03/2017","early.season","C","native","hand netting","Rudbeckia hirta",1520,"Halictus poeyi/ligatus","m",null,0,"ground",null,0
+17458,14,"07/03/2017","early.season","C","native","hand netting","Rudbeckia hirta",1520,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17458,14,"07/03/2017","early.season","C","native","hand netting","Rudbeckia hirta",1520,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17458,14,"07/03/2017","early.season","C","native","hand netting","Rudbeckia hirta",1520,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17458,14,"07/03/2017","early.season","C","native","hand netting","Rudbeckia hirta",1520,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17458,14,"07/03/2017","early.season","C","native","hand netting","Rudbeckia hirta",1520,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17458,14,"07/03/2017","early.season","C","native","hand netting","Rudbeckia hirta",1520,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17458,14,"07/03/2017","early.season","C","native","hand netting","Rudbeckia hirta",1520,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17458,14,"07/03/2017","early.season","C","native","hand netting","Rudbeckia hirta",1520,"Melissodes subillatus","f",null,null,null,null,null
+17458,14,"07/03/2017","early.season","C","native","hand netting","Rudbeckia hirta",1520,"Melissodes subillatus","f",null,null,null,null,null
+17459,3,"06/13/2017","early.season","C","non-native","hand netting","Coronilla varia",1400,"Lasioglossum subviridatum","f",null,0,"wood",null,0
+17459,3,"06/13/2017","early.season","C","non-native","hand netting","Coronilla varia",1400,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17459,1,"06/13/2017","early.season","C","non-native","hand netting","Cosmos bipinnatus",1400,"Lasioglossum versatum","f",null,0,"ground",null,0
+17460,51,"07/03/2017","early.season","C","non-native","pan traps","None",1105,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17460,51,"07/03/2017","early.season","C","non-native","pan traps","None",1105,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17460,51,"07/03/2017","early.season","C","non-native","pan traps","None",1105,"Anthidiellum notatum","f",null,0,"wood",null,0
+17460,51,"07/03/2017","early.season","C","non-native","pan traps","None",1105,"Megachile exilis","f",null,null,null,null,null
+17460,51,"07/03/2017","early.season","C","non-native","pan traps","None",1105,"Megachile exilis","f",null,null,null,null,null
+17460,51,"07/03/2017","early.season","C","non-native","pan traps","None",1105,"Ceratina calcarata","m",null,0,"wood",null,0
+17460,51,"07/03/2017","early.season","C","non-native","pan traps","None",1105,"Lasioglossum vierecki","f",null,0,"ground",null,0
+17460,51,"07/03/2017","early.season","C","non-native","pan traps","None",1105,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17460,51,"07/03/2017","early.season","C","non-native","pan traps","None",1105,"Halictus confusus","f",null,0,"ground",null,0
+17460,51,"07/03/2017","early.season","C","non-native","pan traps","None",1105,"Lasioglossum oblongum","f",null,0,"wood",null,0
+17460,51,"07/03/2017","early.season","C","non-native","pan traps","None",1105,"Lasioglossum pilosum","m",null,0,"ground",null,0
+17461,7,"07/03/2017","early.season","C","non-native","hand netting","Daucus carota",1435,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17461,7,"07/03/2017","early.season","C","non-native","hand netting","Daucus carota",1435,"Augochlorella aurata","f",null,0,"ground",null,0
+17461,7,"07/03/2017","early.season","C","non-native","hand netting","Daucus carota",1435,"Ceratina calcarata","f",null,0,"wood",null,0
+17461,7,"07/03/2017","early.season","C","non-native","hand netting","Daucus carota",1435,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17461,7,"07/03/2017","early.season","C","non-native","hand netting","Daucus carota",1435,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17461,7,"07/03/2017","early.season","C","non-native","hand netting","Daucus carota",1435,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17461,1,"07/03/2017","early.season","C","non-native","hand netting","Trifolium pratense",1435,"Hylaeus modestus","m",null,0,"wood",null,0
+17461,1,"07/03/2017","early.season","C","non-native","hand netting","Coronilla varia",1435,"Hylaeus affinis/modestus","m",null,0,"wood",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Hylaeus affinis/modestus","m",null,0,"wood",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Hylaeus affinis/modestus","m",null,0,"wood",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Bombus fervidus/pensylvanicus","m",null,0,"ground","vulnerable (IUCN)",0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Anthidiellum notatum","f",null,0,"wood",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Lasioglossum weemsi","f",null,null,null,null,null
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Augochlorella aurata","f",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Calliopsis andreniformis","f",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Melissodes bimaculatus","f",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Melitoma taurea","m","Ipomoea",0,"ground","common",0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17462,43,"07/18/2017","late.season","A","native","pan traps","None",915,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17463,6,"07/18/2017","late.season","A","native","hand netting","Chamaecrista fasciculata",1500,"Triepeolus lunatus","m",null,1,"parasite [ground]",null,0
+17463,6,"07/18/2017","late.season","A","native","hand netting","Chamaecrista fasciculata",1500,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17463,6,"07/18/2017","late.season","A","native","hand netting","Chamaecrista fasciculata",1500,"Halictus poeyi/ligatus","m",null,0,"ground",null,0
+17463,6,"07/18/2017","late.season","A","native","hand netting","Monarda punctata",1500,"Bombus impatiens","f",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Triepeolus remigatus","f",null,1,"parasite [ground]",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Anthidium manicatum","m",null,0,"wood/cavities",null,1
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Bombus impatiens","f",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Bombus impatiens","f",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Bombus griseocollis","f",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Bombus pensylvanicus","f",null,0,"ground","vulnerable (IUCN)",0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Melissodes bimaculatus","f",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Anthidium manicatum","m",null,0,"wood/cavities",null,1
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Megachile brevis","f",null,0,"wood",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Bombus impatiens","f",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Augochlorella aurata","m",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Halictus poeyi/ligatus","m",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17464,34,"07/18/2017","late.season","A","non-native","pan traps","None",915,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17465,2,"07/18/2017","late.season","A","non-native","hand netting","Trifolium pratense",1540,"Calliopsis andreniformis","f",null,0,"ground",null,0
+17465,2,"07/18/2017","late.season","A","non-native","hand netting","Trifolium pratense",1540,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17465,1,"07/18/2017","late.season","A","non-native","hand netting","Melilotus officinalis",1540,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17465,6,"07/18/2017","late.season","A","non-native","hand netting","Daucus carota",1540,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17465,6,"07/18/2017","late.season","A","non-native","hand netting","Daucus carota",1540,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17465,6,"07/18/2017","late.season","A","non-native","hand netting","Daucus carota",1540,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17465,6,"07/18/2017","late.season","A","non-native","hand netting","Daucus carota",1540,"Melissodes bimaculatus","f",null,0,"ground",null,0
+17465,6,"07/18/2017","late.season","A","non-native","hand netting","Daucus carota",1540,"Bombus impatiens","f",null,0,"ground",null,0
+17465,6,"07/18/2017","late.season","A","non-native","hand netting","Daucus carota",1540,"Bombus impatiens","m",null,0,"ground",null,0
+17466,7,"07/18/2017","late.season","B","native","hand netting","Chamaecrista fasciculata",1045,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17466,7,"07/18/2017","late.season","B","native","hand netting","Chamaecrista fasciculata",1045,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17466,7,"07/18/2017","late.season","B","native","hand netting","Chamaecrista fasciculata",1045,"Augochlorella aurata","f",null,0,"ground",null,0
+17466,7,"07/18/2017","late.season","B","native","hand netting","Chamaecrista fasciculata",1045,"Augochlorella aurata","f",null,0,"ground",null,0
+17466,7,"07/18/2017","late.season","B","native","hand netting","Chamaecrista fasciculata",1045,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17466,5,"07/18/2017","late.season","B","native","hand netting","Helenium flexuosum",1045,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17466,5,"07/18/2017","late.season","B","native","hand netting","Helenium flexuosum",1045,"Augochlorella aurata","f",null,0,"ground",null,0
+17466,5,"07/18/2017","late.season","B","native","hand netting","Helenium flexuosum",1045,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17466,5,"07/18/2017","late.season","B","native","hand netting","Helenium flexuosum",1045,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17466,5,"07/18/2017","late.season","B","native","hand netting","Helenium flexuosum",1045,"Augochlorella aurata","f",null,0,"ground",null,0
+17466,2,"07/18/2017","late.season","B","native","hand netting","Pycnanthemum tenuifolium",1045,"Lasioglossum versatum","f",null,0,"ground",null,0
+17467,12,"07/03/2017","early.season","B","native","pan traps","None",1050,"Megachile brevis","f",null,0,"wood",null,0
+17467,12,"07/03/2017","early.season","B","native","pan traps","None",1050,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17467,12,"07/03/2017","early.season","B","native","pan traps","None",1050,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17467,12,"07/03/2017","early.season","B","native","pan traps","None",1050,"Megachile mendica","f",null,0,"ground",null,0
+17467,12,"07/03/2017","early.season","B","native","pan traps","None",1050,"Megachile mendica","f",null,0,"ground",null,0
+17467,12,"07/03/2017","early.season","B","native","pan traps","None",1050,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Lasioglossum versatum","f",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Augochlorella aurata","f",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Augochlorella aurata","f",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Augochlorella aurata","f",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Augochlorella aurata","f",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Augochlorella aurata","f",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Agapostemon splendens","f",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17468,22,"07/18/2017","late.season","B","non-native","pan traps","None",935,"Bombus bimaculatus","m",null,0,"ground",null,0
+17469,1,"07/18/2017","late.season","B","non-native","hand netting","Origanum vulgare",1150,"Bombus bimaculatus","f",null,0,"ground",null,0
+17469,3,"07/18/2017","late.season","B","non-native","hand netting","Agastache foeniculum",1150,"Bombus citrinus","m",null,1,"parasite [ground]",null,0
+17469,3,"07/18/2017","late.season","B","non-native","hand netting","Agastache foeniculum",1150,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17469,3,"07/18/2017","late.season","B","non-native","hand netting","Agastache foeniculum",1150,"Anthidiellum notatum","f",null,0,"wood",null,0
+17469,3,"07/18/2017","late.season","B","non-native","hand netting","Lotus corniculatus",1150,"Anthidiellum notatum","f",null,0,"wood",null,0
+17469,3,"07/18/2017","late.season","B","non-native","hand netting","Lotus corniculatus",1150,"Bombus impatiens","f",null,0,"ground",null,0
+17469,3,"07/18/2017","late.season","B","non-native","hand netting","Lotus corniculatus",1150,"Bombus impatiens","f",null,0,"ground",null,0
+17469,13,"07/18/2017","late.season","B","non-native","hand netting","Daucus carota",1150,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17469,13,"07/18/2017","late.season","B","non-native","hand netting","Daucus carota",1150,"Megachile mendica","f",null,0,"ground",null,0
+17469,13,"07/18/2017","late.season","B","non-native","hand netting","Daucus carota",1150,"Megachile mendica","f",null,0,"ground",null,0
+17469,13,"07/18/2017","late.season","B","non-native","hand netting","Daucus carota",1150,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17469,13,"07/18/2017","late.season","B","non-native","hand netting","Daucus carota",1150,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17469,13,"07/18/2017","late.season","B","non-native","hand netting","Daucus carota",1150,"Bombus impatiens","f",null,0,"ground",null,0
+17469,13,"07/18/2017","late.season","B","non-native","hand netting","Daucus carota",1150,"Bombus griseocollis","m",null,0,"ground",null,0
+17469,13,"07/18/2017","late.season","B","non-native","hand netting","Daucus carota",1150,"Apis mellifera","f",null,0,"hive",null,1
+17470,34,"07/18/2017","late.season","C","native","pan traps","None",955,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17470,34,"07/18/2017","late.season","C","native","pan traps","None",955,"Agapostemon texanus","f",null,0,"ground",null,0
+17470,34,"07/18/2017","late.season","C","native","pan traps","None",955,"Agapostemon texanus","f",null,0,"ground",null,0
+17470,34,"07/18/2017","late.season","C","native","pan traps","None",955,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17470,34,"07/18/2017","late.season","C","native","pan traps","None",955,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17470,34,"07/18/2017","late.season","C","native","pan traps","None",955,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17470,34,"07/18/2017","late.season","C","native","pan traps","None",955,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17470,34,"07/18/2017","late.season","C","native","pan traps","None",955,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17470,34,"07/18/2017","late.season","C","native","pan traps","None",955,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17470,34,"07/18/2017","late.season","C","native","pan traps","None",955,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17470,34,"07/18/2017","late.season","C","native","pan traps","None",955,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17470,34,"07/18/2017","late.season","C","native","pan traps","None",955,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17470,34,"07/18/2017","late.season","C","native","pan traps","None",955,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17470,34,"07/18/2017","late.season","C","native","pan traps","None",955,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17470,34,"07/18/2017","late.season","C","native","pan traps","None",955,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17470,34,"07/18/2017","late.season","C","native","pan traps","None",955,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17471,9,"07/18/2017","late.season","C","native","hand netting","Helenium flexuosum",1010,"Halictus poeyi/ligatus","m",null,0,"ground",null,0
+17471,9,"07/18/2017","late.season","C","native","hand netting","Helenium flexuosum",1010,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17471,9,"07/18/2017","late.season","C","native","hand netting","Helenium flexuosum",1010,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17471,9,"07/18/2017","late.season","C","native","hand netting","Helenium flexuosum",1010,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17471,9,"07/18/2017","late.season","C","native","hand netting","Helenium flexuosum",1010,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17471,3,"07/18/2017","late.season","C","native","hand netting","Rudbeckia hirta",1010,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17471,3,"07/18/2017","late.season","C","native","hand netting","Rudbeckia hirta",1010,"Bombus impatiens","f",null,0,"ground",null,0
+17471,3,"07/18/2017","late.season","C","native","hand netting","Rudbeckia hirta",1010,"Bombus impatiens","f",null,0,"ground",null,0
+17471,8,"07/18/2017","late.season","C","native","hand netting","Chamaecrista fasciculata",1010,"Bombus impatiens","f",null,0,"ground",null,0
+17471,8,"07/18/2017","late.season","C","native","hand netting","Chamaecrista fasciculata",1010,"Bombus impatiens","f",null,0,"ground",null,0
+17471,8,"07/18/2017","late.season","C","native","hand netting","Chamaecrista fasciculata",1010,"Bombus impatiens","f",null,0,"ground",null,0
+17471,8,"07/18/2017","late.season","C","native","hand netting","Chamaecrista fasciculata",1010,"Bombus impatiens","f",null,0,"ground",null,0
+17472,36,"07/18/2017","late.season","C","non-native","pan traps","None",955,"Lasioglossum vierecki","f",null,0,"ground",null,0
+17472,36,"07/18/2017","late.season","C","non-native","pan traps","None",955,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17472,36,"07/18/2017","late.season","C","non-native","pan traps","None",955,"Lasioglossum vierecki","f",null,0,"ground",null,0
+17472,36,"07/18/2017","late.season","C","non-native","pan traps","None",955,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17472,36,"07/18/2017","late.season","C","non-native","pan traps","None",955,"Lasioglossum floridanum","f",null,0,"ground",null,0
+17472,36,"07/18/2017","late.season","C","non-native","pan traps","None",955,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17472,36,"07/18/2017","late.season","C","non-native","pan traps","None",955,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17472,36,"07/18/2017","late.season","C","non-native","pan traps","None",955,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17472,36,"07/18/2017","late.season","C","non-native","pan traps","None",955,"Augochlorella aurata","f",null,0,"ground",null,0
+17472,36,"07/18/2017","late.season","C","non-native","pan traps","None",955,"Lasioglossum callidum","f",null,0,"ground",null,0
+17472,36,"07/18/2017","late.season","C","non-native","pan traps","None",955,"Agapostemon texanus","f",null,0,"ground",null,0
+17472,36,"07/18/2017","late.season","C","non-native","pan traps","None",955,"Agapostemon splendens","f",null,0,"ground",null,0
+17472,36,"07/18/2017","late.season","C","non-native","pan traps","None",955,"Bombus griseocollis","f",null,0,"ground",null,0
+17472,36,"07/18/2017","late.season","C","non-native","pan traps","None",955,"Bombus fervidus","f",null,0,"ground","vulnerable (IUCN)",0
+17473,2,"07/18/2017","late.season","C","non-native","hand netting","Trifolium pratense",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,2,"07/18/2017","late.season","C","non-native","hand netting","Trifolium pratense",915,"Bombus impatiens","f",null,0,"ground",null,0
+17473,5,"07/18/2017","late.season","C","non-native","hand netting","Daucus carota",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,5,"07/18/2017","late.season","C","non-native","hand netting","Daucus carota",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,5,"07/18/2017","late.season","C","non-native","hand netting","Daucus carota",915,"Bombus impatiens","f",null,0,"ground",null,0
+17473,5,"07/18/2017","late.season","C","non-native","hand netting","Daucus carota",915,"Bombus impatiens","m",null,0,"ground",null,0
+17473,5,"07/18/2017","late.season","C","non-native","hand netting","Daucus carota",915,"Bombus citrinus","m",null,1,"parasite [ground]",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Agapostemon texanus","f",null,0,"ground",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Halictus parallelus","f",null,0,"ground",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Agapostemon splendens","m",null,0,"ground",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Agapostemon splendens","m",null,0,"ground",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Agapostemon splendens","m",null,0,"ground",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,18,"07/18/2017","late.season","C","non-native","hand netting","Cichorium intybus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,8,"07/18/2017","late.season","C","non-native","hand netting","Cosmos bipinnatus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,8,"07/18/2017","late.season","C","non-native","hand netting","Cosmos bipinnatus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,8,"07/18/2017","late.season","C","non-native","hand netting","Cosmos bipinnatus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,8,"07/18/2017","late.season","C","non-native","hand netting","Cosmos bipinnatus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,8,"07/18/2017","late.season","C","non-native","hand netting","Cosmos bipinnatus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,8,"07/18/2017","late.season","C","non-native","hand netting","Cosmos bipinnatus",915,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17473,8,"07/18/2017","late.season","C","non-native","hand netting","Cosmos bipinnatus",915,"Nomada vegana","m",null,1,"parasite [ground]",null,0
+17473,8,"07/18/2017","late.season","C","non-native","hand netting","Cosmos bipinnatus",915,"Nomada vegana","m",null,1,"parasite [ground]",null,0
+17473,3,"07/18/2017","late.season","C","non-native","hand netting","Origanum vulgare",915,"Bombus citrinus","m",null,1,"parasite [ground]",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Calliopsis andreniformis","m",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Calliopsis andreniformis","f",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Calliopsis andreniformis","f",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Calliopsis andreniformis","m",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Calliopsis andreniformis","m",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Calliopsis andreniformis","f",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Lasioglossum pilosum","f",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Melissodes bimaculatus","f",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Melitoma taurea","m","Ipomoea",0,"ground","common",0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Bombus fervidus/pensylvanicus","m",null,0,"ground","vulnerable (IUCN)",0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Augochlorella aurata","f",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17474,37,"08/01/2017","late.season","A","native","pan traps","None",1030,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17475,5,"08/01/2017","late.season","A","native","hand netting","Helenium flexuosum",1205,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17475,5,"08/01/2017","late.season","A","native","hand netting","Helenium flexuosum",1205,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17475,5,"08/01/2017","late.season","A","native","hand netting","Helenium flexuosum",1205,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17475,5,"08/01/2017","late.season","A","native","hand netting","Helenium flexuosum",1205,"Ceratina calcarata","f",null,0,"wood",null,0
+17475,5,"08/01/2017","late.season","A","native","hand netting","Helenium flexuosum",1205,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17475,8,"08/01/2017","late.season","A","native","hand netting","Rudbeckia triloba",1205,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17475,8,"08/01/2017","late.season","A","native","hand netting","Rudbeckia triloba",1205,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17475,8,"08/01/2017","late.season","A","native","hand netting","Rudbeckia triloba",1205,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17475,8,"08/01/2017","late.season","A","native","hand netting","Rudbeckia triloba",1205,"Lasioglossum","m",null,null,"ground",null,null
+17475,8,"08/01/2017","late.season","A","native","hand netting","Rudbeckia triloba",1205,"Megachile mendica","f",null,0,"ground",null,0
+17475,3,"08/01/2017","late.season","A","native","hand netting","Chamaecrista fasciculata",1205,"Bombus impatiens","f",null,0,"ground",null,0
+17475,3,"08/01/2017","late.season","A","native","hand netting","Chamaecrista fasciculata",1205,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Calliopsis andreniformis","m",null,0,"ground",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Ceratina calcarata","f",null,0,"wood",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Calliopsis andreniformis","m",null,0,"ground",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Lasioglossum callidum","f",null,0,"ground",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Lasioglossum versatum","f",null,0,"ground",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Lasioglossum tegulare","f",null,0,"ground",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Lasioglossum admirandum","f",null,0,"ground",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Apis mellifera","f",null,0,"hive",null,1
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Melissodes bimaculatus","f",null,0,"ground",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Melissodes bimaculatus","f",null,0,"ground",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17476,28,"08/01/2017","late.season","A","non-native","pan traps","None",1030,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17477,4,"08/01/2017","late.season","A","non-native","hand netting","Daucus carota",1110,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17477,4,"08/01/2017","late.season","A","non-native","hand netting","Daucus carota",1110,"Lasioglossum weemsi","f",null,null,null,null,null
+17478,17,"08/01/2017","late.season","B","native","pan traps","None",1015,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17478,17,"08/01/2017","late.season","B","native","pan traps","None",1015,"Calliopsis andreniformis","m",null,0,"ground",null,0
+17478,17,"08/01/2017","late.season","B","native","pan traps","None",1015,"Lasioglossum coreopsis","f",null,0,"ground",null,0
+17478,17,"08/01/2017","late.season","B","native","pan traps","None",1015,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17478,17,"08/01/2017","late.season","B","native","pan traps","None",1015,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17478,17,"08/01/2017","late.season","B","native","pan traps","None",1015,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17478,17,"08/01/2017","late.season","B","native","pan traps","None",1015,"Lasioglossum versatum","f",null,0,"ground",null,0
+17478,17,"08/01/2017","late.season","B","native","pan traps","None",1015,"Augochlorella aurata","f",null,0,"ground",null,0
+17478,17,"08/01/2017","late.season","B","native","pan traps","None",1015,"Lasioglossum versatum","f",null,0,"ground",null,0
+17478,17,"08/01/2017","late.season","B","native","pan traps","None",1015,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17478,17,"08/01/2017","late.season","B","native","pan traps","None",1015,"Lasioglossum coreopsis","m",null,0,"ground",null,0
+17478,17,"08/01/2017","late.season","B","native","pan traps","None",1015,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17479,10,"08/02/2017","late.season","B","native","hand netting","Rudbeckia triloba",1020,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17479,10,"08/02/2017","late.season","B","native","hand netting","Rudbeckia triloba",1020,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17479,10,"08/02/2017","late.season","B","native","hand netting","Rudbeckia triloba",1020,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17479,10,"08/02/2017","late.season","B","native","hand netting","Rudbeckia triloba",1020,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17479,10,"08/02/2017","late.season","B","native","hand netting","Rudbeckia triloba",1020,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17479,10,"08/02/2017","late.season","B","native","hand netting","Rudbeckia triloba",1020,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17479,10,"08/02/2017","late.season","B","native","hand netting","Rudbeckia triloba",1020,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17479,10,"08/02/2017","late.season","B","native","hand netting","Rudbeckia triloba",1020,"Halictus poeyi/ligatus","m",null,0,"ground",null,0
+17479,4,"08/02/2017","late.season","B","native","hand netting","Helenium flexuosum",1020,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17479,4,"08/02/2017","late.season","B","native","hand netting","Helenium flexuosum",1020,"Augochloropsis metallica_metallica","f",null,0,"ground",null,0
+17479,4,"08/02/2017","late.season","B","native","hand netting","Helenium flexuosum",1020,"Augochloropsis metallica_metallica","f",null,0,"ground",null,0
+17479,4,"08/02/2017","late.season","B","native","hand netting","Helenium flexuosum",1020,"Augochloropsis metallica_metallica","f",null,0,"ground",null,0
+17479,9,"08/02/2017","late.season","B","native","hand netting","Chamaecrista fasciculata",1020,"Bombus impatiens","f",null,0,"ground",null,0
+17479,9,"08/02/2017","late.season","B","native","hand netting","Chamaecrista fasciculata",1020,"Bombus impatiens","f",null,0,"ground",null,0
+17479,9,"08/02/2017","late.season","B","native","hand netting","Chamaecrista fasciculata",1020,"Bombus impatiens","f",null,0,"ground",null,0
+17479,9,"08/02/2017","late.season","B","native","hand netting","Chamaecrista fasciculata",1020,"Bombus impatiens","f",null,0,"ground",null,0
+17479,9,"08/02/2017","late.season","B","native","hand netting","Chamaecrista fasciculata",1020,"Bombus impatiens","f",null,0,"ground",null,0
+17479,9,"08/02/2017","late.season","B","native","hand netting","Chamaecrista fasciculata",1020,"Bombus impatiens","f",null,0,"ground",null,0
+17479,9,"08/02/2017","late.season","B","native","hand netting","Chamaecrista fasciculata",1020,"Lasioglossum hitchensi","f",null,0,"ground",null,0
+17479,9,"08/02/2017","late.season","B","native","hand netting","Chamaecrista fasciculata",1020,"Lasioglossum oblongum","f",null,0,"wood",null,0
+17480,15,"08/01/2017","late.season","B","non-native","pan traps","None",1015,"Lasioglossum trigeminum","f",null,0,"ground",null,0
+17480,15,"08/01/2017","late.season","B","non-native","pan traps","None",1015,"Lasioglossum versatum","f",null,0,"ground",null,0
+17480,15,"08/01/2017","late.season","B","non-native","pan traps","None",1015,"Ceratina strenua","f",null,0,"wood",null,0
+17480,15,"08/01/2017","late.season","B","non-native","pan traps","None",1015,"Lasioglossum callidum","f",null,0,"ground",null,0
+17480,15,"08/01/2017","late.season","B","non-native","pan traps","None",1015,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17480,15,"08/01/2017","late.season","B","non-native","pan traps","None",1015,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17480,15,"08/01/2017","late.season","B","non-native","pan traps","None",1015,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17480,15,"08/01/2017","late.season","B","non-native","pan traps","None",1015,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17480,15,"08/01/2017","late.season","B","non-native","pan traps","None",1015,"Melissodes bimaculatus","f",null,0,"ground",null,0
+17480,15,"08/01/2017","late.season","B","non-native","pan traps","None",1015,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17480,15,"08/01/2017","late.season","B","non-native","pan traps","None",1015,"Melissodes bimaculatus","m",null,0,"ground",null,0
+17480,15,"08/01/2017","late.season","B","non-native","pan traps","None",1015,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17480,15,"08/01/2017","late.season","B","non-native","pan traps","None",1015,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17480,15,"08/01/2017","late.season","B","non-native","pan traps","None",1015,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17481,11,"08/02/2017","late.season","B","non-native","hand netting","Cichorium intybus",930,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17481,11,"08/02/2017","late.season","B","non-native","hand netting","Cichorium intybus",930,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17481,11,"08/02/2017","late.season","B","non-native","hand netting","Cichorium intybus",930,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17481,11,"08/02/2017","late.season","B","non-native","hand netting","Cichorium intybus",930,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17481,11,"08/02/2017","late.season","B","non-native","hand netting","Cichorium intybus",930,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17481,11,"08/02/2017","late.season","B","non-native","hand netting","Cichorium intybus",930,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
+17481,11,"08/02/2017","late.season","B","non-native","hand netting","Cichorium intybus",930,"Halictus poeyi/ligatus","f",null,0,"ground",null,0
