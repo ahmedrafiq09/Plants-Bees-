@@ -1,5 +1,6 @@
 # Plants-Bees-
 The primary goal is to create areas teeming with native and non-native plants carefully selected to enhance the overall well-being of pollinator bees. By leveraging a combination of both plant types, we aim to provide a diverse and sustainable environment that fosters the health and prosperity of these vital pollinators. 🌼🐝
+My role involves meticulously studying data collected by our team on the impact of various native and non-native plants on pollinator bees. Through detailed analysis, I aim to offer informed suggestions on the best plant species to cultivate, ensuring an ideal habitat that meets the unique needs of our buzzing friends. 📈🔍
 
 ## 💪 Challenge
 Provide your agency with a report that covers the following:
